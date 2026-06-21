@@ -225,8 +225,11 @@ This dataset is used for **Email Spam Detection**, a binary text classification 
 # 💻 Project Output
 
 <p align="center">
-  <img src="Model_Outcomes_images/Light_mode.png" width="50%" alt="Light Mode Interface">
-  <img src="Model_Outcomes_images/Dark_mode.png" width="50%" alt="Dark Mode Interface">
+  <img src="Model_Outcomes_images/Light_mode.png" width="90%" alt="Light Mode Interface">
+</p>
+
+<p align="center">
+  <img src="Model_Outcomes_images/Dark_mode.png" width="90%" alt="Dark Mode Interface">
 </p>
 
 
