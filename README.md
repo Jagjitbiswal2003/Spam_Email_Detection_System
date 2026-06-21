@@ -220,7 +220,18 @@ This dataset is used for **Email Spam Detection**, a binary text classification 
 | Spam (1)     | 1,368 |
 
 
+--------
 
+# 💻 Project Output
+
+<p align="center">
+  <img src="Model_Outcomes_images/Light_mode.png" width="45%" alt="Light Mode Interface">
+  <img src="Model_Outcomes_images/Dark_mode.png" width="45%" alt="Dark Mode Interface">
+</p>
+
+<p align="center">
+  Light Mode Prediction &nbsp;&nbsp;&nbsp;&nbsp; Dark Mode Prediction
+</p>
 
 
 
