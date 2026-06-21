@@ -190,6 +190,38 @@ POST /predict
 🚀 [View Live App](https://spam-email-backend-49b8.onrender.com)
   
 
+-------
+
+# 📊 Dataset Summary
+
+## Overview
+
+This dataset is used for **Email Spam Detection**, a binary text classification problem where the goal is to determine whether an email is **Spam** or **Not Spam (Ham)** based on its content.
+
+## Dataset Information
+
+* **Total Records:** 5,728 emails
+* **Total Features:** 2
+* **Dataset Type:** Text Classification
+* **Target Variable:** Spam
+
+## Features Description
+
+| Feature | Data Type       | Description                                                          |
+| ------- | --------------- | -------------------------------------------------------------------- |
+| Text    | Object (String) | Contains the complete email content including subject and body text. |
+| Spam    | Integer         | Target variable indicating whether the email is spam or not.         |
+
+## Target Variable Distribution
+
+| Class        | Count |
+| ------------ | ----- |
+| Not Spam (0) | 4,360 |
+| Spam (1)     | 1,368 |
+
+
+
+
 
 
 
